@@ -332,7 +332,7 @@ function showStars(n) {
     if (cached !== null) return showStars(Number(cached));
   } catch {}
   try {
-    const r = await fetch('https://api.github.com/repos/satiricalguru/Brawlverse', { headers: { Accept: 'application/vnd.github+json' } });
+    const r = await fetch('https://api.github.com/repos/JayDev-27/Brawlverse', { headers: { Accept: 'application/vnd.github+json' } });
     if (!r.ok) return;
     const d = await r.json();
     if (typeof d.stargazers_count !== 'number') return;

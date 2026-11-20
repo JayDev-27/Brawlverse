@@ -10,7 +10,7 @@ An original 3D platform brawler for the browser — no install, send a link, fig
 [![Live site](https://img.shields.io/badge/live-brawlverse.vercel.app-ff8a4c?style=for-the-badge&labelColor=0b0912)](https://brawlverse.vercel.app)
 [![Play](https://img.shields.io/badge/play-brawlverse.vercel.app%2Fplay-ff8a4c?style=for-the-badge&labelColor=0b0912)](https://brawlverse.vercel.app/play/)
 [![Status](https://img.shields.io/badge/status-playable%20prototype-ffb86b?style=for-the-badge&labelColor=0b0912)](#-roadmap)
-[![Stars](https://img.shields.io/github/stars/satiricalguru/Brawlverse?style=for-the-badge&color=ff4f8b&labelColor=0b0912)](https://github.com/satiricalguru/Brawlverse/stargazers)
+[![Stars](https://img.shields.io/github/stars/JayDev-27/Brawlverse?style=for-the-badge&color=ff4f8b&labelColor=0b0912)](https://github.com/JayDev-27/Brawlverse/stargazers)
 
 ![three.js](https://img.shields.io/badge/three.js-r187-f6f1e9?style=flat-square&logo=threedotjs&logoColor=white&labelColor=0b0912)
 ![GSAP](https://img.shields.io/badge/GSAP-ScrollTrigger-88ce02?style=flat-square&logo=greensock&logoColor=white&labelColor=0b0912)
@@ -99,7 +99,7 @@ Plus **Neon Abyss** and **Frostspire Summit** — [see all four live](https://br
 You need **Node.js 20+**.
 
 ```bash
-git clone https://github.com/satiricalguru/Brawlverse.git
+git clone https://github.com/JayDev-27/Brawlverse.git
 cd Brawlverse
 npm install
 npm run dev
@@ -169,18 +169,18 @@ flowchart LR
 
 ## 🤝 Contributing
 
-Issues and ideas are welcome — open one at [github.com/satiricalguru/Brawlverse/issues](https://github.com/satiricalguru/Brawlverse/issues). For code changes, fork, branch, and open a pull request with a short description and a screenshot or clip if it's visual.
+Issues and ideas are welcome — open one at [github.com/JayDev-27/Brawlverse/issues](https://github.com/JayDev-27/Brawlverse/issues). For code changes, fork, branch, and open a pull request with a short description and a screenshot or clip if it's visual.
 
 ## 👥 Contributors
 
 Brawlverse is built in the open. Thanks to everyone who has pushed to this repo:
 
 - **[@Mxhi-04](https://github.com/Mxhi-04)** — documentation, asset references and repo upkeep
-- **[@satiricalguru](https://github.com/satiricalguru)** — direction, design and the build
+- **[@satiricalguru](https://github.com/JayDev-27)** — direction, design and the build
 - **[Copilot](https://github.com/apps/copilot-swe-agent)**, **[Cursor Agent](https://github.com/cursoragent)** and **[Codex](https://github.com/codex)** — agent-assisted code, refactors and tooling
 - **[dependabot[bot]](https://github.com/apps/dependabot)** and **[github-actions[bot]](https://github.com/actions)** — dependency bumps and CI
 
-Every commit is attributed, so the full list also lives in the [contributors graph](https://github.com/satiricalguru/Brawlverse/graphs/contributors).
+Every commit is attributed, so the full list also lives in the [contributors graph](https://github.com/JayDev-27/Brawlverse/graphs/contributors).
 
 ## 🙏 Credits
 
@@ -196,7 +196,7 @@ Brawlverse is an original project: its characters, stages and story are its own 
 
 <div align="center">
 
-**If the trailer made you want to throw hands, [give it a ⭐](https://github.com/satiricalguru/Brawlverse)** — it's how we know to keep going.
+**If the trailer made you want to throw hands, [give it a ⭐](https://github.com/JayDev-27/Brawlverse)** — it's how we know to keep going.
 
 <sub><a href="#brawlverse">↑ Back to top</a></sub>
 
